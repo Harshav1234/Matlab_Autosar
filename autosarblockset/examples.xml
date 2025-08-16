@@ -1,0 +1,255 @@
+<?xml version="1.0"?>
+<demos>
+  <demoitem>
+    <source>ConfigureAndSimulateAUTOSARFiMServiceCallsExample</source>
+    <type>live</type>
+    <extension>mlx</extension>
+    <metadata>ex01258312</metadata>
+    <thumbnail>html/ConfigureAndSimulateAUTOSARFiMServiceCallsExample_01.png</thumbnail>
+    <product>matlab</product>
+    <product>autosarblockset</product>
+    <product>simulink</product>
+    <file component="autosarblockset" timestamp="1641369068">autosar_bsw_fim.slx</file>
+    <file component="autosarblockset" timestamp="1641369068">autosar_bsw_fimmonitor.slx</file>
+    <file component="autosarblockset" timestamp="1641369068">autosar_bsw_fimoperationcycle.slx</file>
+    <file component="autosarblockset" timestamp="1641369068">autosar_bsw_fimsensor1.slx</file>
+    <file component="autosarblockset" timestamp="1641369068">autosar_bsw_fimsensor2.slx</file>
+  </demoitem>
+  <demoitem>
+    <source>ModelingPatternsForAUTOSARRunnablesExample</source>
+    <type>live</type>
+    <extension>mlx</extension>
+    <metadata>ex01391857</metadata>
+    <thumbnail>html/ModelingPatternsForAUTOSARRunnablesExample_01.png</thumbnail>
+    <product>autosarblockset</product>
+    <product>matlab</product>
+    <product>simulink</product>
+    <file component="autosarblockset" timestamp="1641367812">autosar_swc.slx</file>
+    <file component="autosarblockset" timestamp="1641367812">autosar_swc_fcncalls.slx</file>
+    <file component="autosarblockset" timestamp="1641367812">autosar_swc_slfcns.slx</file>
+  </demoitem>
+  <demoitem>
+    <source>ImportAUTOSARCompositionIntoArchitectureModelExample</source>
+    <type>live</type>
+    <extension>mlx</extension>
+    <metadata>ex03089096</metadata>
+    <thumbnail>html/ImportAUTOSARCompositionIntoArchitectureModelExample_03.png</thumbnail>
+    <product>matlab</product>
+    <product>autosarblockset</product>
+    <product>simulink</product>
+    <product>systemcomposer</product>
+    <file component="autosarblockset" timestamp="1593724168">ThrottlePositionControlComposition.arxml</file>
+  </demoitem>
+  <demoitem>
+    <source>DesignAUTOSARComponentsExample</source>
+    <type>live</type>
+    <extension>mlx</extension>
+    <metadata>ex10820025</metadata>
+    <thumbnail>html/DesignAUTOSARComponentsExample_09.png</thumbnail>
+    <product>autosarblockset</product>
+    <product>matlab</product>
+    <product>simulink</product>
+    <file component="autosarblockset" timestamp="1641368346">autosar_composition.slx</file>
+    <file component="autosarblockset" timestamp="1641368346">autosar_swc_actuator.slx</file>
+    <file component="autosarblockset" timestamp="1641368346">autosar_swc_controller.slx</file>
+    <file component="autosarblockset" timestamp="1641368346">autosar_swc_monitor.slx</file>
+    <file component="autosarblockset" timestamp="1641368346">autosar_swc_pedal_sensor.slx</file>
+    <file component="autosarblockset" timestamp="1641368346">autosar_swc_throttle_sensor.slx</file>
+    <file component="autosarblockset" timestamp="1647274787">autosar_system.slx</file>
+    <file component="autosarblockset" timestamp="1540940114">pedal.jpg</file>
+    <file component="autosarblockset" timestamp="1540940114">throttle.jpg</file>
+    <file component="autosarblockset" timestamp="1647274787">PedalInputData.mat</file>
+  </demoitem>
+  <demoitem>
+    <source>ConfigureSubcomponentDataForAUTOSARCalibrationExample</source>
+    <type>live</type>
+    <extension>mlx</extension>
+    <metadata>ex18444437</metadata>
+    <thumbnail>html/ConfigureSubcomponentDataForAUTOSARCalibrationExample_01.png</thumbnail>
+    <product>matlab</product>
+    <product>autosarblockset</product>
+    <product>simulink</product>
+    <file component="autosarblockset" timestamp="1641369218">autosar_component.slx</file>
+    <file component="autosarblockset" timestamp="1641369218">autosar_subcomponent.slx</file>
+  </demoitem>
+  <demoitem>
+    <source>SimulateAUTOSARBasicSoftwareServicesExample</source>
+    <type>live</type>
+    <extension>mlx</extension>
+    <metadata>ex22284415</metadata>
+    <thumbnail>html/SimulateAUTOSARBasicSoftwareServicesExample_08.png</thumbnail>
+    <product>autosarblockset</product>
+    <product>matlab</product>
+    <product>simulink</product>
+    <file component="autosarblockset" timestamp="1641368722">autosar_bsw_monitor.slx</file>
+    <file component="autosarblockset" timestamp="1562094314">autosar_bsw_presim.slx</file>
+    <file component="autosarblockset" timestamp="1641368722">autosar_bsw_sensor1.slx</file>
+    <file component="autosarblockset" timestamp="1641368722">autosar_bsw_sensor2.slx</file>
+    <file component="autosarblockset" timestamp="1562094314">autosar_bsw_simulation.slx</file>
+  </demoitem>
+  <demoitem>
+    <source>ReuseAUTOSARElementsInComponentModelExample</source>
+    <type>live</type>
+    <extension>mlx</extension>
+    <metadata>ex23410754</metadata>
+    <thumbnail>html/ReuseAUTOSARElementsInComponentModelExample_01.png</thumbnail>
+    <product>autosarblockset</product>
+    <product>matlab</product>
+    <product>simulink</product>
+    <file component="autosarblockset" timestamp="1547074113">SwAddrMethods.arxml</file>
+    <file component="autosarblockset" timestamp="1594072917">autosar_swc.slx</file>
+  </demoitem>
+  <demoitem>
+    <source>CreateAndConfigureAUTOSARAdaptiveSoftwareComponentExample</source>
+    <type>live</type>
+    <extension>mlx</extension>
+    <metadata>ex37525147</metadata>
+    <thumbnail>html/CreateAndConfigureAUTOSARAdaptiveSoftwareComponentExample_04.png</thumbnail>
+    <product>autosarblockset</product>
+    <product>matlab</product>
+    <product>simulink</product>
+    <file component="autosarblockset" timestamp="1610285633">LaneGuidance.slx</file>
+    <file component="autosarblockset" timestamp="1610285633">autosar_LaneGuidance.slx</file>
+  </demoitem>
+  <demoitem>
+    <source>ImportAUTOSARAdaptiveComponentToSimulinkExample</source>
+    <type>live</type>
+    <extension>mlx</extension>
+    <metadata>ex40521576</metadata>
+    <thumbnail>html/ImportAUTOSARAdaptiveComponentToSimulinkExample_01.png</thumbnail>
+    <product>matlab</product>
+    <product>autosarblockset</product>
+    <product>simulink</product>
+    <file component="autosarblockset" timestamp="1568742154">fusion_app.arxml</file>
+    <file component="autosarblockset" timestamp="1568743888">radarService_app_mod.arxml</file>
+    <file component="autosarblockset" timestamp="1620933257">radar_svc_mod.arxml</file>
+    <file component="autosarblockset" timestamp="1568745139">stdtypes_mod.arxml</file>
+  </demoitem>
+  <demoitem>
+    <source>ReuseAUTOSARAdaptiveElementsInComponentModelExample</source>
+    <type>live</type>
+    <extension>mlx</extension>
+    <metadata>ex41389233</metadata>
+    <thumbnail>html/ReuseAUTOSARAdaptiveElementsInComponentModelExample_01.png</thumbnail>
+    <product>matlab</product>
+    <product>autosarblockset</product>
+    <product>simulink</product>
+    <file component="autosarblockset" timestamp="1570213481">Adaptive_PlatformTypes.arxml</file>
+    <file component="autosarblockset" timestamp="1592836620">autosar_LaneGuidance.slx</file>
+  </demoitem>
+  <demoitem>
+    <source>ImportAUTOSARComponentToSimulinkExample</source>
+    <type>live</type>
+    <extension>mlx</extension>
+    <metadata>ex43389225</metadata>
+    <product>autosarblockset</product>
+    <product>matlab</product>
+    <product>simulink</product>
+    <file component="autosarblockset" timestamp="1540587822">ThrottlePositionControlComposition.arxml</file>
+    <file component="autosarblockset" timestamp="1540587822">ThrottlePositionControlComposition_updated.arxml</file>
+  </demoitem>
+  <demoitem>
+    <source>AuthorAUTOSARCompositionsInArchitectureModelExample</source>
+    <type>live</type>
+    <extension>mlx</extension>
+    <metadata>ex45746005</metadata>
+    <thumbnail>html/AuthorAUTOSARCompositionsInArchitectureModelExample_13.png</thumbnail>
+    <product>matlab</product>
+    <product>autosarblockset</product>
+    <product>simulink</product>
+    <product>systemcomposer</product>
+    <file component="autosarblockset" timestamp="1540940114">pedal.jpg</file>
+    <file component="autosarblockset" timestamp="1540940114">throttle.jpg</file>
+    <file component="autosarblockset" timestamp="1562182430">TPC_Requirements.slreqx</file>
+    <file component="autosarblockset" timestamp="1643872516">autosar_tpc_actuator.slx</file>
+    <file component="autosarblockset" timestamp="1651082136">autosar_tpc_composition.slx</file>
+    <file component="autosarblockset" timestamp="1643872516">autosar_tpc_controller.slx</file>
+    <file component="autosarblockset" timestamp="1643872516">autosar_tpc_pedal_sensor.slx</file>
+    <file component="autosarblockset" timestamp="1647271678">autosar_tpc_system.slx</file>
+    <file component="autosarblockset" timestamp="1643872516">autosar_tpc_throttle_sensor1.slx</file>
+    <file component="autosarblockset" timestamp="1643872516">autosar_tpc_throttle_sensor2.slx</file>
+    <file component="autosarblockset" timestamp="1643872516">autosar_tpc_throttle_sensor_monitor.slx</file>
+    <file component="autosarblockset" timestamp="1647271678">PedalInput.mat</file>
+  </demoitem>
+  <demoitem>
+    <source>AUTOSARCounterExample</source>
+    <type>live</type>
+    <extension>mlx</extension>
+    <metadata>ex46692261</metadata>
+    <thumbnail>html/AUTOSARCounterExample_01.png</thumbnail>
+    <product>autosarblockset</product>
+    <product>matlab</product>
+    <product>simulink</product>
+    <file component="autosarblockset" timestamp="1641369715">autosar_swc_counter.slx</file>
+  </demoitem>
+  <demoitem>
+    <source>GenerateAUTOSARAdaptiveCodeAndXMLDescriptionsExample</source>
+    <type>live</type>
+    <extension>mlx</extension>
+    <metadata>ex49388390</metadata>
+    <thumbnail>html/GenerateAUTOSARAdaptiveCodeAndXMLDescriptionsExample_05.png</thumbnail>
+    <product>matlab</product>
+    <product>autosarblockset</product>
+    <product>simulink</product>
+    <file component="autosarblockset" timestamp="1608224977">autosar_LaneGuidance.slx</file>
+  </demoitem>
+  <demoitem>
+    <source>ModelAUTOSARRunnablesUsingExportedFunctionsExample</source>
+    <type>live</type>
+    <extension>mlx</extension>
+    <metadata>ex52167994</metadata>
+    <thumbnail>html/ModelAUTOSARRunnablesUsingExportedFunctionsExample_01.png</thumbnail>
+    <product>autosarblockset</product>
+    <product>matlab</product>
+    <product>simulink</product>
+    <file component="autosarblockset" timestamp="1641369628">autosar_swc_expfcns.slx</file>
+  </demoitem>
+  <demoitem>
+    <source>SimulateAndVerifyAUTOSARCompBehaviorWithDiagFaultInjectExample</source>
+    <type>live</type>
+    <extension>mlx</extension>
+    <metadata>ex59381248</metadata>
+    <thumbnail>html/SimulateAndVerifyAUTOSARCompBehaviorWithDiagFaultInjectExample_02.png</thumbnail>
+    <product>matlab</product>
+    <product>autosarblockset</product>
+    <file component="autosarblockset" timestamp="1616517716">autosar_bsw_monitor.slx</file>
+    <file component="autosarblockset" timestamp="1644245101">autosar_bsw_inject.slx</file>
+    <file component="autosarblockset" timestamp="1644249010">autosar_bsw_inject_test.slx</file>
+    <file component="autosarblockset" timestamp="1644249010">autosar_bsw_override_test.slx</file>
+  </demoitem>
+  <demoitem>
+    <source>GenerateAUTOSARCodeAndXMLDescriptionsExample</source>
+    <type>live</type>
+    <extension>mlx</extension>
+    <metadata>ex67457559</metadata>
+    <thumbnail>html/GenerateAUTOSARCodeAndXMLDescriptionsExample_05.png</thumbnail>
+    <product>autosarblockset</product>
+    <product>matlab</product>
+    <product>simulink</product>
+    <file component="autosarblockset" timestamp="1626430319">autosar_swc.slx</file>
+  </demoitem>
+  <demoitem>
+    <source>ImportAUTOSARCompositionToSimulinkExample</source>
+    <type>live</type>
+    <extension>mlx</extension>
+    <metadata>ex86152927</metadata>
+    <thumbnail>html/ImportAUTOSARCompositionToSimulinkExample_06.png</thumbnail>
+    <product>autosarblockset</product>
+    <product>matlab</product>
+    <product>simulink</product>
+    <file component="autosarblockset" timestamp="1593724168">ThrottlePositionControlComposition.arxml</file>
+    <file component="autosarblockset" timestamp="1540587822">ThrottlePositionControlComposition_updated.arxml</file>
+  </demoitem>
+  <demoitem>
+    <source>GettingStartedWithAUTOSARCodeGenerationExample</source>
+    <type>live</type>
+    <extension>mlx</extension>
+    <metadata>ex91453280</metadata>
+    <thumbnail>html/GettingStartedWithAUTOSARCodeGenerationExample_03.png</thumbnail>
+    <product>autosarblockset</product>
+    <product>matlab</product>
+    <product>simulink</product>
+    <file component="autosarblockset" timestamp="1610288400">autosar_swc.slx</file>
+    <file component="autosarblockset" timestamp="1625823235">swc.slx</file>
+  </demoitem>
+</demos>
