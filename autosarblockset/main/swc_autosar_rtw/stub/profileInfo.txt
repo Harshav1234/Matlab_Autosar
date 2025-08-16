@@ -1,0 +1,10 @@
+#D:\learning\Matlab\Matlab_Autosar\autosarblockset\main\swc_autosar_rtw\stub\Rte_swc.h
+#this file contains the list of RTE methods that the profiling must filter out
+-Rte_IRead_swc_Step_In1_1s_In1_1s
+-Rte_IWrite_swc_Step_Out1_Out1
+-Rte_IWriteRef_swc_Step_Out1_Out1
+-Rte_IWrite_swc_Step_Out2_Out2
+-Rte_IWriteRef_swc_Step_Out2_Out2
+-Rte_IRead_swc_Step1_In2_2s_In2_2s
+-Rte_IrvIRead_swc_Step_IRV1
+-Rte_IrvIWrite_swc_Step1_IRV1
